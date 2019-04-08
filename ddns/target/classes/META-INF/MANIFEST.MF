@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: zhengyingwei
+Class-Path: . lib/gson-2.8.5.jar lib/aliyun-java-sdk-core-3.3.1.jar li
+ b/json-20170516.jar lib/aliyun-java-sdk-alidns-2.0.0.jar lib/fastjson
+ -1.2.56.jar
+Build-Jdk: 1.8.0_201
+Created-By: Maven Integration for Eclipse
+Main-Class: MAIN.DDNS
+
